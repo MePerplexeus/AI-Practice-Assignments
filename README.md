@@ -33,3 +33,4 @@ All my practice assignments and challenges AI, ML and Data Science reside here.
 * [PythonAnywhere - A platform to host small python projects](http://www.pythonanywhere.com/)
 * [NoIP - Free Dynamic DNS and Managed DNS Provider*](https://www.noip.com/)
 * [Derivative Calculator - Calculate derivatives online with steps and graphing](https://www.derivative-calculator.net/)
+* [Integral Calculator - Calculate integrals online with steps and graphing](https://www.integral-calculator.com/)
