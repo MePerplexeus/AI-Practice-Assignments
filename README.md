@@ -22,7 +22,8 @@ All my practice assignments and challenges AI, ML and Data Science reside here.
 * [Gilbert Strang (Lectures) [Linear Algebra]](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8)
 * [Abhishek Thakur(Kaggle Profile)](https://www.kaggle.com/abhishek)
 * [Machine Learning Interview Preparation (Ebooks & Lecture Notes)(github)](https://github.com/machine-learning-interview-prep/CS229_ML/tree/master/doc)
-* [An Introduction to Statistical Learning with Applications in R (eBook)<br>— [Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani]](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+* [An Introduction to Statistical Learning with Applications in R (eBook)<br>— [Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani]](https://github.com/MePerplexeus/AI-Practice-Assignments/blob/master/Resources/ISLR%20Seventh%20Printing.pdf)
+* [Standard Normal Cumulative Probability Table](https://github.com/MePerplexeus/AI-Practice-Assignments/blob/master/Resources/Standard%20Normal%20Cumulative%20Probability%20Table.pdf)
 
 ### Resources For Practicing
 * https://paperswithcode.com/
@@ -34,3 +35,4 @@ All my practice assignments and challenges AI, ML and Data Science reside here.
 * [NoIP - Free Dynamic DNS and Managed DNS Provider*](https://www.noip.com/)
 * [Derivative Calculator - Calculate derivatives online with steps and graphing](https://www.derivative-calculator.net/)
 * [Integral Calculator - Calculate integrals online with steps and graphing](https://www.integral-calculator.com/)
+* [Z-score Calculator](https://www.calculator.net/z-score-calculator.html)
