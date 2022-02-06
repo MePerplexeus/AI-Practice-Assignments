@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+.content {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+.content h1 {
+    margin-bottom: 0;
+}
+.content img {
+    margin: auto;
+    border: 1px solid #c3c3c3;
+}
+.content canvas#myCanvas {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    border: 1px solid #c3c3c3;
+}
+.content button {
+    width: 300px;
+    margin-top: 18px;
+}
+.content div button {
+    width: 50%;
+    margin: unset;
+}
+.content div button.fw {
+    width: 100%;
+}
+#byline {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
