@@ -1,2 +1,1 @@
-# Project on Artificial Intelligence
-## Hand Written Digit Classification
+## Project on Artificial Intelligence - Hand Written Digit Classification
